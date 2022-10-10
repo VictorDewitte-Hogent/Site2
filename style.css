@@ -64,9 +64,7 @@ div#theatre:hover #curtain-right {
     transform: rotate(25deg) skew(15deg,5deg);
 }
 
-#jema{
-    opacity: 0;
-}
+
 
 @keyframes fadeIn {
     0% { opacity: 0; }
