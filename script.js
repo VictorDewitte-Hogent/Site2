@@ -5,3 +5,8 @@ theater.onmouseover = () => {
   jema.style.animation = 'fadeIn 10s';
   jiplaAudio.play();
 };
+
+theater.ontouchstart = () => {
+  jema.style.animation = 'fadeIn 10s';
+  jiplaAudio.play();
+};
